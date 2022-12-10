@@ -5,11 +5,15 @@ The program allows you to get and set the meta-information of the `ID3v2` versio
 - `--get=<ID>` parameter allows you to get information by frame ID;
 - `--set<ID> --value<CONTENT>` allows you to set the CONTENT information in 8-byte encoding to the frame with the given ID.
 
-## Used libraries
+## GitHub
+
+- [MP3 Meta Information Editor](https://github.com/xplago-itmo/MP3-Meta-Information-Editor)
 
 ## Authors
 
 - [@xplago-itmo](https://www.github.com/xplago-itmo)
+
+## Used libraries
 
 ```c
 #include <stdio.h>
